@@ -1,1 +1,3 @@
 # skypvp
+
+Private SkyPvP plugin.
